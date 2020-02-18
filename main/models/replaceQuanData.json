@@ -1,0 +1,5 @@
+{"Column":"normalized-losses","groups":["symboling","make","body-style"],"transform":"max"}
+{"Column":"peak-rpm","groups":["engine-type","num-of-cylinders", "fuel-system","compression-ratio"],"transform":"median"}
+{"Column":"horsepower","groups":["aspiration","compression-ratio"],"transform":"median"}
+{"Column":"bore","groups":["make","body-style"],"transform":"median"}
+{"Column":"stroke","groups":["make","body-style"],"transform":"median"}

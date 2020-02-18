@@ -1,0 +1,11 @@
+{"Column":"make","old":"vol00112ov","new":"volvo"}
+{"Column":"aspiration","old":"turrrrbo","new":"turbo"}
+{"Column":"num-of-doors","old":"fourr","new":"four"}
+{"Column":"drive-wheels","old":"4wd","new":"fwd"}
+{"Column":"engine-type","old":"l","new":"ohc"}
+{"Column":"engine-type","old":"rotor","new":"rotory"}
+{"Column":"engine-type","old":"ohcv","new":"ohv"}
+{"Column":"engine-type","old":"ohcf","new":"ohc"}
+{"Column":"num-of-cylinders","old":"twelve","new":"six"}
+{"Column":"num-of-cylinders","old":"three","new":"four"}
+{"Column":"symboling","old":4,"new":-1}

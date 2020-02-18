@@ -1,0 +1,8 @@
+schema:
+    file: 'C:\\Users\\DataProcessing\\main\\models\\banking.json'
+    replaceQual: 'C:\\Users\\DataProcessing\\main\\models\\replaceQualData.json'
+    replaceQuan: "C:\\Users\\DataProcessing\\main\\models\\replaceQuanData.json"
+
+dataset:
+    file: 'C:\\Users\\banking.txt'
+    sep: ','

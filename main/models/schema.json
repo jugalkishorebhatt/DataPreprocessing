@@ -1,0 +1,4 @@
+{"Column":"id","length":"3","flag":"0"}
+{"Column":"date","length":"8","flag":"0"}
+{"Column":"name","length":"3","flag":"1"}
+{"Column":"salary","length":"5","flag":"2"}
