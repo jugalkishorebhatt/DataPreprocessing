@@ -6,8 +6,7 @@ import traceback
 
 
 """
-Created on July 10
-@author Jugal
+
 """
 class SparkConfig:
     "Initializes Spark Config"
@@ -22,6 +21,6 @@ class SparkConfig:
     """    
     def __init_spark(self, log):
         try:
-            return SparkSession.builder.appName("FITS Surrogate").getOrCreate()
+            return SparkSession.builder.appName("DataProcessing").getOrCreate()
         except Exception as e:
             log.error("SparkConfig, __init_spark", traceback.print_exc())    
